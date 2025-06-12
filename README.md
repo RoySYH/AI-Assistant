@@ -28,6 +28,8 @@ An Agentic AI personal assistant powered by Google Gemini 2.0 Flash, demonstrati
 
 ## 📸 System Showcase
 
+![Demo Screenshot](./demo.png)
+
 ### Main Interface
 
 🤖 **Intelligent Personal Assistant**
