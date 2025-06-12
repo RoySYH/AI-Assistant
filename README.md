@@ -165,5 +165,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-[Your Name]  
+Roy  
 📧 Email: royhker@gmail.com
