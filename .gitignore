@@ -1,0 +1,27 @@
+# 環境變數 (重要！不要上傳 API 金鑰)
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+agentic_ai_env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系統文件
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
